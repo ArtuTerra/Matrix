@@ -3,7 +3,9 @@
 
 Este programa tem como objetivo criar um efeito visual semelhante os simbolos verdes que podem ser vistas recorrentemente nos filmes **Matrix**.
 
-Para utilizar e visualizar o programa, favor compilar o codigo em g++ e execute o .exe resultante em seu terminal de preferencia
+Para utilizar e visualizar o programa, favor compilar o codigo em g++ e execute o .exe resultante em seu terminal de preferencia.
+
+**Se for usar o terminal CMD do Windows, favor use "Matrix CMD Windows.cpp". Se não, use Matrix.cpp.**
 
 ### A seguir terá uma explicação de como personalizar o codigo.
 
